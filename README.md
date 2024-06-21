@@ -7,7 +7,7 @@
 ·CUDA v11.4  
 ·LibTorch win-shared-with-deps-1.10.2+cu113  
 
-# Coming Soon
+# have come
 
 
 
